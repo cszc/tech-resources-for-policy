@@ -9,11 +9,11 @@ For getting stuff done
 
 ### Data Analysis
 - Data Project Scoping Worksheets
-  - South Side Civic
+  - [South Side Civic](https://docs.google.com/document/d/1nz3OkOF0LwSftyyT0AxaWHkEE3UkYSPjdXut3QWMREk/edit)
   - [Data Science for Social Good](https://dssg.uchicago.edu/2016/10/27/scoping-data-science-for-social-good-projects/)
 
 ### Digital Services
-- [Example, U.S. Web Design Standards]
+- [Example, U.S. Web Design Standards](https://standards.usa.gov/) - **18F**
 
 ### Privacy
 - [Example, Municipal Privacy Policy](http://www.seattle.gov/tech/initiatives/privacy) - **Seattle**
